@@ -1,2 +1,2 @@
-# windows
-Not linux
+# Not Linux
+Windows  
