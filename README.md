@@ -1,2 +1,1 @@
-# Not Linux
-Windows  
+Matrix batch file for windows 
